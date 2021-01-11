@@ -1,0 +1,10 @@
+p { 
+    text-align: center;
+    color: aqua;
+}
+#contenedor { 
+    height: 50%;
+    width: 50%;
+    background-color: coral;
+    border: 2px;    
+}
