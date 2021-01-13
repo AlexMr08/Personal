@@ -1,10 +1,14 @@
 p { 
     text-align: center;
     color: aqua;
+    font-style: italic;
 }
-#contenedor { 
-    height: 50%;
-    width: 50%;
-    background-color: coral;
-    border: 2px;    
+#contenedor {
+    
+    height: 100%;
+    width: 100%;
+    background-color: black;
+    border-style: groove;
+    border-color: firebrick;
+
 }
