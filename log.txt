@@ -1,0 +1,53 @@
+commit 3ea81520eb3a2f06723bf846d093a1deed56b534
+Author: a <a.a.a>
+Date:   Wed Jan 20 20:46:14 2021 +0100
+
+    Soy demasiado ansias
+
+commit 86ae6191b16e55131256be21cf4e636cbbd5bda6
+Author: a <a@a.a>
+Date:   Wed Jan 20 20:28:15 2021 +0100
+
+    soy muy torpe F
+
+commit d4fe3cf08310c1ec1357ddbcece5693b0be8be18
+Author: a <a@a.a>
+Date:   Wed Jan 20 20:23:47 2021 +0100
+
+    aportacion hecha desde otra cuenta por falta de paciencia
+
+commit bceaa27cf2acfc3bcb3bfe3ef48810eac24744fa
+Author: Your Name <you@example.com>
+Date:   Wed Jan 13 19:32:05 2021 +0100
+
+    quitado txt
+
+commit 08e7f3209dde3e117b01cb8dc9fc89c54fddea8c
+Author: Your Name <you@example.com>
+Date:   Wed Jan 13 15:12:55 2021 +0100
+
+    css
+
+commit 059cda5812b67ec00e62e8be80fa5812318dc345
+Author: AlexMr08 <alex.molinaruiz08@gmail.com>
+Date:   Wed Jan 13 02:53:23 2021 +0100
+
+    cambios css
+
+commit f4fd1dbf28920682617d7df942a7e1709c6fbe90
+Author: unknown <a@g.c>
+Date:   Mon Jan 11 17:24:47 2021 +0100
+
+    cambios varios
+
+commit 76df3c53855fafaa2b66ecab7b91934fe5e222dc
+Author: unknown <a@g.c>
+Date:   Mon Jan 11 16:45:50 2021 +0100
+
+    hola
+
+commit 5d2a25a2961a2eba55c49a85c1f368fcbb90ae45
+Author: AlexMr08 <alex.molinaruiz08@gmail.com>
+Date:   Mon Jan 11 16:43:49 2021 +0100
+
+    Initial commit
