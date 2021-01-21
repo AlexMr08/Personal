@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Esto es una aportacion desde otra cuenta.
-=======
 Esto es una aportacion random. :)
->>>>>>> 3ea81520eb3a2f06723bf846d093a1deed56b534
